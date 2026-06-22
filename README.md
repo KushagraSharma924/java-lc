@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/KushagraSharma924/java-lc/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
