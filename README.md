@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1550-three-consecutive-odds](https://github.com/KushagraSharma924/java-lc/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
 ## Math
