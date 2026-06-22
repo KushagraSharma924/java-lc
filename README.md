@@ -31,5 +31,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/KushagraSharma924/java-lc/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
+## String
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/KushagraSharma924/java-lc/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
