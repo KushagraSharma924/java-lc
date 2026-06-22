@@ -41,4 +41,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/KushagraSharma924/java-lc/tree/master/0657-robot-return-to-origin) |
 | [2942-find-words-containing-character](https://github.com/KushagraSharma924/java-lc/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/KushagraSharma924/java-lc/tree/master/3019-number-of-changing-keys) |
 <!---LeetCode Topics End-->
