@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [1550-three-consecutive-odds](https://github.com/KushagraSharma924/java-lc/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -42,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/KushagraSharma924/java-lc/tree/master/0657-robot-return-to-origin) |
 | [2942-find-words-containing-character](https://github.com/KushagraSharma924/java-lc/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/KushagraSharma924/java-lc/tree/master/3019-number-of-changing-keys) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
