@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
+| [0901-online-stock-span](https://github.com/KushagraSharma924/java-lc/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
+| [0901-online-stock-span](https://github.com/KushagraSharma924/java-lc/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KushagraSharma924/java-lc/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/KushagraSharma924/java-lc/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
