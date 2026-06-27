@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KushagraSharma924/java-lc/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KushagraSharma924/java-lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KushagraSharma924/java-lc/tree/master/2769-find-the-maximum-achievable-number) |
