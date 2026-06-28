@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/KushagraSharma924/java-lc/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2942-find-words-containing-character](https://github.com/KushagraSharma924/java-lc/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/KushagraSharma924/java-lc/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
 ## Matrix
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/KushagraSharma924/java-lc/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
