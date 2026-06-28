@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
 ## Matrix
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
