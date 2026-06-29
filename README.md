@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KushagraSharma924/java-lc/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KushagraSharma924/java-lc/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
