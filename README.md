@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KushagraSharma924/java-lc/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/KushagraSharma924/java-lc/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KushagraSharma924/java-lc/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/KushagraSharma924/java-lc/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KushagraSharma924/java-lc/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KushagraSharma924/java-lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KushagraSharma924/java-lc/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
