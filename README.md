@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/KushagraSharma924/java-lc/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/KushagraSharma924/java-lc/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KushagraSharma924/java-lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KushagraSharma924/java-lc/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
