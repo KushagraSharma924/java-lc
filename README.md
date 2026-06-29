@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
+| [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1550-three-consecutive-odds](https://github.com/KushagraSharma924/java-lc/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/KushagraSharma924/java-lc/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KushagraSharma924/java-lc/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KushagraSharma924/java-lc/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KushagraSharma924/java-lc/tree/master/0066-plus-one) |
+| [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KushagraSharma924/java-lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KushagraSharma924/java-lc/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/KushagraSharma924/java-lc/tree/master/2769-find-the-maximum-achievable-number) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
 ## Matrix
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
