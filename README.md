@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/KushagraSharma924/java-lc/tree/master/0657-robot-return-to-origin) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KushagraSharma924/java-lc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KushagraSharma924/java-lc/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/KushagraSharma924/java-lc/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/KushagraSharma924/java-lc/tree/master/3019-number-of-changing-keys) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KushagraSharma924/java-lc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
@@ -127,4 +129,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/KushagraSharma924/java-lc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
