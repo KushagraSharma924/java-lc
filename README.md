@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/KushagraSharma924/java-lc/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/KushagraSharma924/java-lc/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
 | [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KushagraSharma924/java-lc/tree/master/0075-sort-colors) |
+| [0561-array-partition](https://github.com/KushagraSharma924/java-lc/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3024-type-of-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/3024-type-of-triangle) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/KushagraSharma924/java-lc/tree/master/0561-array-partition) |
 | [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KushagraSharma924/java-lc/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
@@ -130,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KushagraSharma924/java-lc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KushagraSharma924/java-lc/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
