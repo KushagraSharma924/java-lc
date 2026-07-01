@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/KushagraSharma924/java-lc/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/KushagraSharma924/java-lc/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/KushagraSharma924/java-lc/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/KushagraSharma924/java-lc/tree/master/0739-daily-temperatures) |
 | [0976-largest-perimeter-triangle](https://github.com/KushagraSharma924/java-lc/tree/master/0976-largest-perimeter-triangle) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/KushagraSharma924/java-lc/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/KushagraSharma924/java-lc/tree/master/0575-distribute-candies) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KushagraSharma924/java-lc/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KushagraSharma924/java-lc/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
